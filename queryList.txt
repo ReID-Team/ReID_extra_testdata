@@ -1,0 +1,3 @@
+ReID_extra_testdata/images/query/0030_c1_f0056923.jpg
+ReID_extra_testdata/images/query/0042_c5_f0068994.jpg
+ReID_extra_testdata/images/query/0056_c8_f0017063.jpg
