@@ -5,17 +5,6 @@ This repository stores the example input of the ReID sample in https://github.co
 ## Baseline Model
 Following link store several state-of-the-art baseline models from Tencent Youtu Lab.
 
-### MSMT17
-```
-@inproceedings{wei2018person,
-  title={Person transfer gan to bridge domain gap for person re-identification},
-  author={Wei, Longhui and Zhang, Shiliang and Gao, Wen and Tian, Qi},
-  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
-  pages={79--88},
-  year={2018}
-}
-```
-
 ### Download Link
 [models](https://drive.google.com/drive/folders/1wFGcuolSzX3_PqNKb4BAV3DNac7tYpc2?usp=sharing)
 
@@ -58,5 +47,15 @@ Following datasets are used for the baseline training:
   author={Li, Wei and Zhao, Rui and Xiao, Tong and Wang, Xiaogang},
   booktitle={CVPR},
   year={2014}
+}
+```
+### MSMT17
+```
+@inproceedings{wei2018person,
+  title={Person transfer gan to bridge domain gap for person re-identification},
+  author={Wei, Longhui and Zhang, Shiliang and Gao, Wen and Tian, Qi},
+  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+  pages={79--88},
+  year={2018}
 }
 ```
