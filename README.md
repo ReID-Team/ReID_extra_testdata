@@ -16,7 +16,6 @@ Following link store several state-of-the-art baseline models from Tencent Youtu
 
 ### Reference
 Following datasets are used for the baseline training:
- The models are trained on following public datasets:
 
 #### Market1501
 ```
