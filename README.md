@@ -48,7 +48,7 @@ Following datasets are used for the baseline training:
   year={2014}
 }
 ```
-### MSMT17
+#### MSMT17
 ```
 @inproceedings{wei2018person,
   title={Person transfer gan to bridge domain gap for person re-identification},
