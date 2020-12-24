@@ -11,8 +11,9 @@ Following link store several state-of-the-art baseline models from Tencent Youtu
 ### Model Performance
 |Model | Market1501(mAP/rank-1) | DukeMTMC(mAP/rank-1) | MSMT17(mAP/rank-1)|
 | :--- | :--- | :--- | :--- |
-|youtu_reid_baseline_lite   |88.16/95.43|79.75/89.05 |58.82/80.81| 
-|youtu_reid_baseline_medium |90.95/96.47|83.38/91.56 |65.30/85.08| 
+|youtu_reid_baseline_lite   |87.86/95.01|79.75/89.05 |58.82/80.81| 
+|youtu_reid_baseline_medium |90.75/96.32|83.38/91.56 |65.30/85.08| 
+|youtu_reid_baseline_large  |91.85/96.73|84.40/91.88 |68.68/87.04| 
 
 ### Reference
 Following datasets are used for the baseline training:
